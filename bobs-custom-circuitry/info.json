@@ -1,0 +1,14 @@
+{
+  "name": "bobs-custom-circuitry",
+  "version": "1.0.0",
+  "factorio_version": "1.0",
+  "title": "Bob's Customizable Circuitry",
+  "author": "Zengineer",
+  "contact": "zengineer@endocluster.com",
+  "homepage": "https://github.com/ZengineerIO/factorio-bobs-custom-circuitry",
+  "dependencies": [
+    "base >= 0.18.0",
+    "bobelectronics >= 1.0.0"
+  ],
+  "description": "Easier circuit wires for Bob's Electronics mod. For early circuitry.\n\nCable and circuit type can be set in startup settings, including a setting for cheaper combinators."
+}
