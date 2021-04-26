@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 26. 04. 2021
+  Info:
+    - Renamed the mod to make clear this one is NOT made by bobingabout.
+    - Added bobplates dependency as there was no tinned-copper-cable without it.
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 28. 11. 2020
   Info:
