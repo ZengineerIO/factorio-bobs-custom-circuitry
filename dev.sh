@@ -1,6 +1,6 @@
 #!/bin/sh
 
-modname="EvenMoreTextPlates"
+modname="bobs-custom-circuitry"
 
 if [ ! "${FACTORIOPATH}" ]; then
     echo "no factorio path found"
