@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: ??. 11. 2021
+Date: 20. 04. 2022
   Info:
     - complete rewrite with boblibrary
     - added boblibrary as direct dependency

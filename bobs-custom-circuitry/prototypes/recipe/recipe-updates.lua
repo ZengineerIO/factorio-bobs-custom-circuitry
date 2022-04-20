@@ -55,6 +55,6 @@ bobmods.lib.recipe.set_ingredients("red-wire", {{circuit, 1}, {cable, 1}})
 -- change combinator recipes
 if settings.startup["bobs-custom-circuitry-align"].value then
   make_combinator_recipes(cable, circuit)
-elseif settings.startup["bobs-custom-circuitry-combinators"].value then -- to be removed at some point!
+elseif settings.startup["bobs-custom-circuitry-combinators"].value then -- TODO to be removed at some point!
   make_combinator_recipes("copper-cable", "basic-circuit-board")
 end
