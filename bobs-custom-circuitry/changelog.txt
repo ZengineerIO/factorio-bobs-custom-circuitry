@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 20. 04. 2022
+  Info:
+    - complete rewrite with boblibrary
+    - added boblibrary as direct dependency
+    - added angelsbioprocessing, angelspetrochem, angelssmelting, bobtech, ScienceCostTweakerMod and SeaBlock as optional dependencies (compatability)
+  Features:
+    - Added all the circuits and (almost) all cables to selection. (Default option will be used in recipes if an unavailable component has been chosen.)
+    - Added new setting to align logic component recipes with cable and circuit selection. (The old 'Cheaper combinators' setting will be overridden by this and will be removed in the future)
+    - Added new setting to adjust circuit network technology. Attempts to incorporate the cable and circuit selection into the prerequisites and tech cost. See mod portal page for more info.
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 26. 04. 2021
   Info:
